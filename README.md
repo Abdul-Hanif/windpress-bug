@@ -9,11 +9,11 @@ This repository holds a **WordPress Playground export** that demonstrates a bug 
 
 ### A. Import in the browser (Playground UI)
 
-1. Download **wordpress-playground-windpress-bug.zip**.
-2. Visit **<https://playground.wordpress.net>**.  
-3. Click **⋮ Menu → Import from .zip**.
-4. Login as admin **⋮ My account → Username: admin → Password: password**.
-5. Go to the Homepage and click on a post **⋮ Homepage → Test Post 1**.
+1. Download wordpress-playground-windpress-bug.zip.
+2. Visit <https://playground.wordpress.net>.  
+3. Click ⋮ Menu → Import from .zip.
+4. Login as admin ⋮ My account → Username: admin | Password: password.
+5. Go to the Homepage and click on a post ⋮ Homepage → Test Post 1.
 6. Click on the next/previous post navigation buttons and notice the flash of styling on each page reload (this is happening because WindPress is currently using the compiler).
 7. Go to WindPress settings and toggle on "Enable Cached CSS" & click the Generate button > save.
 8. Go to WindPress settings and toggle on "Enable Cached CSS" > Save.
