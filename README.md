@@ -5,9 +5,9 @@ This repository holds a **WordPress Playground export** that demonstrates a bug 
 
 ---
 
-## 1  Get the demo site running
+## Get the demo site running
 
-### A. Import in the browser (Playground UI)
+### Import in the browser (Playground UI)
 
 1. Download wordpress-playground-windpress-bug.zip.
 2. Visit <https://playground.wordpress.net>.  
